@@ -1,0 +1,8 @@
+certifi==2023.11.17
+charset-normalizer==3.3.2
+click==8.1.7
+idna==3.6
+lupa==2.0
+requests==2.31.0
+semver==3.0.2
+urllib3==2.1.0
